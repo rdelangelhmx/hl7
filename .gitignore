@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PacketSenderPortable
+/hapi-dist-2.2-all.tar.bz2
+/hapi-dist-2.2-all.zip
+/hapi-dist-2.2-sources.zip
+/hapi-testpanel-2.0-windows.zip
+/hapi-testpanel-2.0.1-windows.zip
+/health_seven-master.zip
+/HL7 with Dot Net.pdf
+/id_file
+/LiquidStudio.exe
+/PacketSenderPortable_v8.6.5.zip
+/PacketSender_x64_v8.6.5.exe
+/testpanel.exe
+/fhir-all-xsd
+/2008-MMD-UncasoprcticodeusodemensajeraHL7enunaunidaddeterapiaintensivausandoSQL_XML.pdf
+/fhir-all-xsd.zip
